@@ -1,7 +1,7 @@
 # SimpleWeb-Scraping-Project-Of-An-Amazon-Page-with-BeautifulSoup
 I built a web scraping script using BeautifulSoup in Jupyter Notebook to extract product information from an Amazon page and stored the collected data in a CSV file for further analysis.
 
-French version
+French version :
 Web Scraping d’une page Amazon
 J’ai développé un script de web scraping avec BeautifulSoup dans Jupyter Notebook pour extraire des informations produits d’une page Amazon et j’ai enregistré les données collectées dans un fichier CSV pour analyse ultérieure.
 
